@@ -1,0 +1,1 @@
+It contain a Cricket game which is between user and a computer. In this game User will provide 3 choice to choose from Bat, Ball,Stump . So if the output will come accordingly after the user chooses one button.
